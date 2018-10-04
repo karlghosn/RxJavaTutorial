@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">RxJava Tutorial</string>
+
+    <string-array name="examples_list">
+        <item>Basic Observable, Observer</item>
+        <item>Introducing Disposable</item>
+        <item>Introducing Operator</item>
+        <item>Multiple Observers and CompositeDisposable</item>
+        <item>Custom Data Type and Operators</item>
+        <item>Introduction to Operators</item>
+    </string-array>
+
+    <string name="tap_number">Received %1$d taps in 3 secs</string>
+    <string name="tap_number_sessions">Maximum of %1$d taps received in this session</string>
+    <string name="tap_repeatedly">Tap repeatedly here!</string>
+    <string name="input">Input:</string>
+    <string name="output">Output:</string>
+    <string name="user_input">User Input:</string>
+    <string name="user_output">User Output:</string>
+    <string name="on_subscribe">onSubscribe</string>
+    <string name="all_items_emitted">All items are emitted!</string>
+    <string name="all_notes_emitted">All notes are emitted</string>
+
+    <string-array name="operators_list">
+        <item>Filter</item>
+        <item>Skip</item>
+        <item>SkipLast</item>
+        <item>Take</item>
+        <item>TakeLast</item>
+        <item>Distinct</item>
+        <item>Just</item>
+        <item>From</item>
+        <item>Range</item>
+        <item>Repeat</item>
+        <item>Max</item>
+        <item>Min</item>
+        <item>Sum</item>
+        <item>Average</item>
+        <item>Count</item>
+        <item>Reduce</item>
+        <item>Buffer</item>
+        <item>Buffer Taps</item>
+        <item>Concat</item>
+        <item>Merge</item>
+        <item>Map</item>
+    </string-array>
+</resources>
